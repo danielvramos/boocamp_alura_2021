@@ -1,4 +1,4 @@
-Desafio 01 lançado pelo instrutores do bootcamp alura, objetivo:
+Primeiro desafio lançado pelo instrutores do curso bootcamp em data science da alura, objetivo:
 
         - Super Desafio: Escolha outro valor fora o valor aprovado no TABNET e explore estes dados. Esse será nosso projeto do módulo, mais detalhes no Desafio do módulo 1 na página do bootcamp.
 atualizado para: 
