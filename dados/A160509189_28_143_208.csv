@@ -1,0 +1,27 @@
+ Mortalidade - Brasil
+Óbitos p/Ocorrênc por Faixa Etária e Ano do Óbito
+Categoria CID-10: A39   Infecc meningogocica
+Período:1996-2018
+"Faixa Etária";"1996";"1997";"1998";"1999";"2000";"2001";"2002";"2003";"2004";"2005";"2006";"2007";"2008";"2009";"2010";"2011";"2012";"2013";"2014";"2015";"2016";"2017";"2018";"Total"
+"Menor 1 ano";207;207;183;166;137;128;89;98;83;97;75;75;73;72;84;37;41;40;38;31;34;27;27;2049
+"1 a 4 anos";367;357;314;247;228;218;173;141;156;146;131;107;129;134;111;68;61;47;29;42;24;34;24;3288
+"5 a 9 anos";139;113;92;110;85;83;77;73;78;61;69;66;41;56;56;60;54;41;28;24;16;21;8;1451
+"10 a 14 anos";62;56;51;35;46;39;41;22;36;37;39;31;23;32;46;35;40;25;22;15;15;10;12;770
+"15 a 19 anos";60;48;45;38;27;28;27;19;20;20;19;19;33;31;38;45;38;36;26;19;23;19;10;688
+"20 a 29 anos";55;49;38;29;48;27;28;33;33;22;29;32;38;44;48;52;55;40;24;16;17;24;26;807
+"30 a 39 anos";43;28;17;22;30;21;23;17;20;15;20;23;27;28;20;39;41;29;25;13;19;18;18;556
+"40 a 49 anos";36;21;15;30;16;16;17;16;22;21;24;20;27;28;29;31;44;37;27;16;8;22;20;543
+"50 a 59 anos";21;20;22;17;8;15;18;7;5;14;22;19;16;19;15;39;18;25;17;14;16;18;19;404
+"60 a 69 anos";10;9;11;9;8;14;9;5;8;10;6;4;5;13;9;14;14;14;14;7;8;12;8;221
+"70 a 79 anos";10;6;7;12;14;4;10;4;8;4;4;4;10;5;9;7;5;9;3;10;6;5;7;163
+"80 anos e mais";2;1;2;1;3;4;1;1;3;-;-;2;6;1;8;5;3;5;4;2;5;8;6;73
+"Idade ignorada";6;2;2;2;-;1;-;1;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;15
+"Total";1018;917;799;718;650;598;513;437;472;447;438;402;428;463;473;432;414;348;257;210;191;218;185;11028
+ Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+ Nota:
+ 
+ Em 2011, houve uma mudança no conteúdo da Declaração de Óbito, com maior detalhamento das informações coletadas. Para este ano, foram
+ utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento
+ "Sistema de Informações sobre Mortalidade - SIM. Consolidação da base de dados de 2011".
+ No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.
+ 
